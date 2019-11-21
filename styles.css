@@ -33,6 +33,14 @@ body {
     margin: 20px 15px;
 }
 
+.product-size {
+    font-family: 'Roboto Slab', Serif;
+    font-size: 20px;
+    color:  rgb(160, 154, 157);
+    text-align: left;
+    margin: 20px 15px;
+}
+
 .card-framework {
     background-color: rgb(198, 189, 193);
     width: 400px;
@@ -99,6 +107,22 @@ img {
     display: inline-block;
 }
 
+.size-choice-container {
+    width: 100%;
+    margin: 20px auto;
+}
+.product-size-choice {
+    font-family: 'Roboto Slab', Serif;
+    font-size: 16px;
+    color: rgb(160, 154, 157);
+    width: 25px;
+    height: 25px;
+    margin: 0px 15px;
+    border: 1.5px solid rgb(138, 130, 133);
+    box-shadow: 1px 1px 1px 0px rgba(0,0,0,0.3);
+    display: inline-block;
+}
+
 .card-button {
     background-color:  rgb(141, 85, 109) ;
     color: ivory;
@@ -111,9 +135,3 @@ img {
     box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.4);
     
 }
-    
-    
-font-family: 'Ruda', Sans-Serif;
-font-size: 48px;
-font-family: 'Roboto Slab', Serif;
-font-size: 16px;
