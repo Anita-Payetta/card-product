@@ -136,10 +136,19 @@ img {
 }
 
 .add-to-cart-icon {
-    margin: 0px 10px;
+    margin-right: 10px;
     vertical-align: middle;
 }
 
 .add-to-cart-text {
+    vertical-align: middle;
+}
+
+.buy-now-icon {
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.buy-now-text {
     vertical-align: middle;
 }
