@@ -6,24 +6,24 @@ body {
 .card-framework {
     background-color: rgb(198, 189, 193);
     width: 400px;
-    height: auto;
-    margin: 40px auto;
-    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    margin: 0px auto;
 }
 
 .card-img-container {
     width: 100%;
     height: auto;
     margin: 0;
-    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .card-container {
     background-color: whitesmoke;
     width: 80%;
     height: 90%;
-    text-align: center;
-    margin: 30px auto;
     overflow: hidden;
     box-shadow: 0px 10px 15px 5px rgba(0, 0, 0, 0.4);
 }
